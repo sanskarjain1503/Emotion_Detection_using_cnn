@@ -1,0 +1,34 @@
+# # Python virtual environment
+# .venv/
+
+# # Python cache
+# __pycache__/
+# *.py[cod]
+# *$py.class
+
+# # Environment variables
+# .env
+
+
+
+
+
+
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+saved_models/
+models/
+
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+dataset/
+data/
+
+.ipynb_checkpoints/
